@@ -1,2 +1,0 @@
-alphawildgamer.github.io/shadowlandsaccountpage
-alphawildgamer.github.io/shadowlandsaccountpage 
