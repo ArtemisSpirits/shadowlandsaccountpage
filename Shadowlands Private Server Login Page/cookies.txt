@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-alphawildgamer.hopto.org	TRUE	/	FALSE	1999999999	PHPSESSID	ac827286596ab842813aa311ecb5bd82
-
